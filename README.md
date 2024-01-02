@@ -1,5 +1,5 @@
 https://www.turkiyeforumlari.net/
 
-        Web Kazi - 2
+        web site kazı çalışması v2
 
-                Beginner Coder !
+            Beginner Coder !
